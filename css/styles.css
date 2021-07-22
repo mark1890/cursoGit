@@ -1,4 +1,17 @@
 body {
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
+  background: #ffff;
+}
+.container {
+  display: flex;
+  align-items: center;
+  width: 80%;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+.post {
+  font-size: 18px;
+  font-weight: bold;
 }
