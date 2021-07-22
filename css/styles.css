@@ -1,5 +1,5 @@
 body {
-  text-align: center;
+  text-align: justify;
   font-family: Arial, Helvetica, sans-serif;
   background: #ffff;
 }
@@ -12,6 +12,7 @@ body {
 }
 
 .post {
+  margin-left: 10px;
   font-size: 18px;
   font-weight: bold;
 }
