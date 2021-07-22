@@ -2,4 +2,4 @@ Este es un documento de prueba
 
 Testeando los múltiples comandos de Git
 
-Git es un programa para el manejo de versiones
+Git es un programa para el manejo de versiones y como exponerlo en GitHub
