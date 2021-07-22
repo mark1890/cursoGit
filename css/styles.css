@@ -5,7 +5,15 @@ body {
 }
 
 #cabecera {
+  margin-top: 10px;
   margin-left: 10px;
+  background: #845ec2;
+  box-shadow: 2px 1px 4px 1px rgba(0, 0, 0, 0.7);
+  width: 72px;
+  color: black;
+  height: 30px;
+  display: flex;
+  align-items: center;
 }
 .container {
   width: 80%;
@@ -15,6 +23,5 @@ body {
 
 .post {
   margin-left: 10px;
-  font-size: 18px;
   font-weight: bold;
 }
