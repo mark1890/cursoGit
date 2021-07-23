@@ -39,3 +39,12 @@ body {
   margin-left: 10px;
   font-weight: bold;
 }
+
+footer {
+  color: white;
+  font-weight: normal;
+  width: 100%;
+  background: #845ec2;
+  height: 20px;
+  text-align: center;
+}
